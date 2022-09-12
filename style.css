@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(120deg, #FFF0F5, #FF50CA, #B90BFF, #5336C6, #00008B);
+    flex-direction: column;
+    display: flex;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 4px;
+}
